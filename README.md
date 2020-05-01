@@ -80,10 +80,10 @@ A chapter is recommended to have about 25 Pages/11550 Words (approx.) in A4 page
 
 Editors
 
-Sanjiv Sharma (MITS Gwalior IN), PhD wrote many research articles and currently he is Asstt Professor in the Department of Humanities Madhav Institute of Technology and Science Gwalior India. 
+Sanjiv Sharma (MITS Gwalior IN), PhD wrote many research articles and currently he is Asstt Professor in the Department of CSE/IT, Madhav Institute of Technology and Science Gwalior, India. 
 
  
 Valiur Rahaman (MITS Gwalior IN), PhD Author of Interpretations: Essays in Literary Theory (2010), Introducing Digital Humanities (2016), Acts of Literary Theory (2017), and editor of Aesthetics of Interrogation: Astitvrasa (2017). Currently he is Asstt Professor in the Department of Humanities Madhav Institute of Technology and Science Gwalior India. 
  
-G.R. Sinha (MIIT Myanmar), PhD ACM distinguish speaker, author and editor, is professor at MIIT Myanmar. After dozens of publications he has recently published Cognitive Informatics, Computer Modelling, and Cognitive Science (2020)
+G.R. Sinha (MIIT Myanmar), PhD ACM distinguish speaker, author and editor, is a Professor at MIIT Myanmar. After dozens of publications he has recently published Cognitive Informatics, Computer Modelling, and Cognitive Science (2020)
  

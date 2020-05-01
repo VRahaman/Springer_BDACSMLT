@@ -28,7 +28,7 @@ Analysis of the Big data i.e. the heavy rush of data explosion, especially the u
 •	Digital Aesthetics, Research Prospectus, Issues and Challenges
 
 
-The following tentative chapters cover major research and cognate research areas:
+The following tentative chapters cover major research and cognate research areas (Also see the tentative chapter plan https://github.com/cfc-springer-big-data/publication_springer_cfc_big_data_analytics/blob/master/Chapter%20Plan.pdf):
 
 1.	Semantic Supplementation of Big Data & Big Data Analytics 
 2.	Big Data Analytics for Market Predictions and Design Predictions

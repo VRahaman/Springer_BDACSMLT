@@ -68,11 +68,15 @@ Researchers, academicians, research scholars and others working in the field of 
 
 Important Deadlines
 
-Submission of Abstract (500 Words):15th May, 2020
-Acceptance of Abstract:30th May, 2020
-Submission of Full Chapter (25 Pages/11550 Words (approx.)):15th JUNE, 2020
-Acceptance of Chapter:15th JULY, 2020
-Submission of Final Chapter (Revised with Permission & Copyright):30th JULY, 2020
+	Submission of Abstract (500 Words):15th May, 2020
+
+	Acceptance of Abstract:30th May, 2020
+
+	Submission of Full Chapter (25 Pages/11550 Words (approx.)):15th JUNE, 2020
+
+	Acceptance of Chapter:15th JULY, 2020
+
+	Submission of Final Chapter (Revised with Permission & Copyright):30th JULY, 2020
 
 Author’s Guidelines
 

@@ -8,7 +8,7 @@ This volume provides a comprehensive overview of the theory and praxis of big da
 The book is divided into three main sections, the first of which discusses various approaches associated with big data analytics, the second addresses the security and privacy of big data on Social Media and the last section focuses on the literary text of big data. This book is suitable for those interested in analytics that can be applied in literature, history, philosophy, linguistics, and digital humanities.
 
 
-The focus of the book 
+The Focus of the book 
 
 
 Analysis of the Big data i.e. the heavy rush of data explosion, especially the unstructured one (like email conversations, social media posts, feedback, video contents, photos, voice recordings, sounds, etc.) help develop decision making, prediction, and removal of distortion resulting cracked human agencies. Major focuses are:
@@ -74,7 +74,7 @@ Important Deadlines
 
 	Submission of Abstract (500 Words):25th May, 2020
 
-	Acceptance of Abstract:10th June, 2020
+	Acceptance of Abstract:20th June, 2020
 
 	Submission of Full Chapter (25 Pages/11550 Words (approx.)):30 July, 2020
 

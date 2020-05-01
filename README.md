@@ -28,7 +28,8 @@ Analysis of the Big data i.e. the heavy rush of data explosion, especially the u
 •	Digital Aesthetics, Research Prospectus, Issues and Challenges
 
 
-The following tentative chapters cover major research and cognate research areas (Also see the tentative chapter plan https://github.com/cfc-springer-big-data/publication_springer_cfc_big_data_analytics/blob/master/Chapter%20Plan.pdf):
+The following tentative chapters cover major research and cognate research areas (Also see the tentative chapter plan https://github.com/cfc-springer-big-data/publication_springer_cfc_big_data_analytics/blob/master/Chapter%20Plan.pdf:
+
 
 1.	Semantic Supplementation of Big Data & Big Data Analytics 
 2.	Big Data Analytics for Market Predictions and Design Predictions
@@ -59,7 +60,9 @@ The following tentative chapters cover major research and cognate research areas
 USPs
 
 •	Provides recent research on social media and big data analytics
+
 •	Presents transdisciplinary research in big data analytics
+
 •	Provides comprehensive overview of theory & praxis of big data analytics
 
 Submission Procedure
@@ -78,9 +81,12 @@ Important Deadlines
 
 	Submission of Final Chapter (Revised with Permission & Copyright):30th JULY, 2020
 
+
 Author’s Guidelines
 
+
 A chapter is recommended to have about 25 Pages/11550 Words (approx.) in A4 pages with. Author’s guidelines and chapter templates can be found at https://www.springer.com/gp/authors-editors/book-authors-editors/resources-guidelines/book-manuscript-guidelines
+
 
 Editors
 

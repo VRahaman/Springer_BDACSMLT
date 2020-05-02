@@ -68,7 +68,14 @@ USPs
 
 Submission Procedure
 
-Researchers, academicians, research scholars and others working in the field of Big Data Analytics, Cognitive Social Media, Contemporary Social Media and Communication, Digital Literary Text, Aesthetics, Technicity, Posthumanism are requested to express their interest by writing to us at er.sanjiv@gmail.com (Social Networking, Science & Technology); vali.vns@gmail.com (Humanities and Social Sciences, Legal Studies, Society-Interface Technology, Culture Studies, Media and Digital Humanities) and gr_sinha@miit.edu.mm (Science & Technology, Cognitive Informatics, Brain Studies and Computation/Cyber Behaviour).
+Researchers, academicians, research scholars and others working in the field of Big Data Analytics, Cognitive Social Media, Contemporary Social Media and Communication, Digital Literary Text, Aesthetics, Technicity, Posthumanism are requested to express their interest by writing to us:
+
+	dr.s.sanjiv@gmail.com (Social Networking, Science & Technology) 
+	
+	vali.vns@gmail.com (Humanities and Social Sciences, Society-Interface Technology, Culture Studies, Media and Digital Humanities)
+	
+	gr_sinha@miit.edu.mm (Science & Technology, Cognitive Informatics, Brain Studies and Computation/Cyber Behaviour)
+
 
 Important Deadlines
 
@@ -94,7 +101,7 @@ Editors
 Sanjiv Sharma (MITS Gwalior IN), PhD, wrote many research articles and currently he is Asstt Professor in the Department of CSE/IT, Madhav Institute of Technology and Science Gwalior, India. 
 
  
-Valiur Rahaman (MITS Gwalior IN), PhD, Author of Interpretations: Essays in Literary Theory (2010), Introducing Digital Humanities (2016), Acts of Literary Theory (2017), and editor of Aesthetics of Interrogation: Astitvrasa (2017). Currently he is Asstt Professor in the Department of Humanities Madhav Institute of Technology and Science Gwalior India. 
+Valiur Rahaman (MITS Gwalior IN), PhD, author of Interpretations: Essays in Literary Theory (2010), Introducing Digital Humanities (2016), Acts of Literary Theory (2017), and editor of Aesthetics of Interrogation: Astitvrasa (2017). Currently he is Asstt Professor in the Department of Humanities Madhav Institute of Technology and Science Gwalior India. 
  
-G.R. Sinha (MIIT Myanmar), PhD, ACM distinguish speaker, author and editor, is a Professor at MIIT Myanmar. After dozens of publications he has recently published Cognitive Informatics, Computer Modelling, and Cognitive Science (2020)
+G.R. Sinha (MIIT Myanmar), PhD, an ACM distinguish speaker, author and editor, is a Professor at MIIT Myanmar. After dozens of publications he has recently published "Cognitive Informatics, Computer Modelling, and Cognitive Science" (2020)
  

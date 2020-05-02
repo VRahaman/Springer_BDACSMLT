@@ -60,34 +60,31 @@ The following tentative chapters cover major research and cognate research areas
 
 USPs
 
-	Provides recent research on social media and big data analytics
+Provides recent research on social media and big data analytics
 
-	Presents transdisciplinary research in big data analytics
+Presents transdisciplinary research in big data analytics
 
-	Provides comprehensive overview of theory & praxis of big data analytics
+Provides comprehensive overview of theory & praxis of big data analytics
 
 Submission Procedure
 
 Researchers, academicians, research scholars and others working in the field of Big Data Analytics, Cognitive Social Media, Contemporary Social Media and Communication, Digital Literary Text, Aesthetics, Technicity, Posthumanism are requested to express their interest by writing to us:
-
-	dr.s.sanjiv@gmail.com (Social Networking, Science & Technology) 
-	
-	vali.vns@gmail.com (Humanities and Social Sciences, Society-Interface Technology, Culture Studies, Media and Digital Humanities)
-	
-	gr_sinha@miit.edu.mm (Science & Technology, Cognitive Informatics, Brain Studies and Computation/Cyber Behaviour)
+Dr Sanjiv Sharma    dr.s.sanjiv@gmail.com (Social Networking, Science & Technology) 
+Dr Valiur Rahaman   vali.vns@gmail.com (Humanities and Social Sciences, Society-Interface Technology, Media and Culture Studies,DH)
+Dr GR Sinha         gr_sinha@miit.edu.mm (Science & Technology, Cognitive Informatics, Brain Studies and Computation/Cyber Behaviour)
 
 
 Important Deadlines
 
-	Submission of Abstract (500 Words):25th May, 2020
+Submission of Abstract (500 Words):25th May, 2020
 
-	Acceptance of Abstract:20th June, 2020
+Acceptance of Abstract:20th June, 2020
 
-	Submission of Full Chapter (25 Pages/11550 Words (approx.)):30 July, 2020
+Submission of Full Chapter (25 Pages/11550 Words (approx.)):30 July, 2020
 
-	Acceptance of Chapter:25th August, 2020
+Acceptance of Chapter:25th August, 2020
 
-	Submission of Final Chapter (Revised with Permission & Copyright):15th September, 2020
+Submission of Final Chapter (Revised with Permission & Copyright):15th September, 2020
 
 
 Author’s Guidelines

@@ -69,8 +69,11 @@ Provides comprehensive overview of theory & praxis of big data analytics
 Submission Procedure
 
 Researchers, academicians, research scholars and others working in the field of Big Data Analytics, Cognitive Social Media, Contemporary Social Media and Communication, Digital Literary Text, Aesthetics, Technicity, Posthumanism are requested to express their interest by writing to us:
+
 Dr Sanjiv Sharma    dr.s.sanjiv@gmail.com (Social Networking, Science & Technology) 
+
 Dr Valiur Rahaman   vali.vns@gmail.com (Humanities and Social Sciences, Society-Interface Technology, Media and Culture Studies,DH)
+
 Dr GR Sinha         gr_sinha@miit.edu.mm (Science & Technology, Cognitive Informatics, Brain Studies and Computation/Cyber Behaviour)
 
 

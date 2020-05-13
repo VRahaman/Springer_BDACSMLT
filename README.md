@@ -1,3 +1,4 @@
+
 Call for Chapters
 
 Big Data Analytics in Cognitive Social Media and Literary Texts: Theory and Praxis
@@ -98,7 +99,7 @@ A chapter is recommended to have about 25 Pages/11550 Words (approx.) in A4 page
 
 Editors
 
-Sanjiv Sharma (MITS Gwalior IN), PhD, wrote many research articles and currently he is Asstt Professor in the Department of CSE/IT, Madhav Institute of Technology and Science Gwalior, India. 
+Sanjiv Sharma (MITS Gwalior IN), PhD, wrote many research articles on social network analysis and data mining applications.Currently he is Asstt Professor in the Department of CSE & IT, Madhav Institute of Technology and Science Gwalior, India. 
 
  
 Valiur Rahaman (MITS Gwalior IN), PhD, author of Interpretations: Essays in Literary Theory (2010), Introducing Digital Humanities (2016), Acts of Literary Theory (2017), and editor of Aesthetics of Interrogation: Astitvrasa (2017). Currently he is Asstt Professor in the Department of Humanities Madhav Institute of Technology and Science Gwalior India. 
